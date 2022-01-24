@@ -1,0 +1,1 @@
+SELECT * FROM {{ref('raw_order_line_items')}}

@@ -1,0 +1,21 @@
+
+#version: 2
+
+#models:
+ # - name: customer
+ #   description: "A starter dbt model. I changed this model name."
+ #   columns:
+ #     - name: id
+  #      description: "The primary key for this table"
+  #      tests:
+ #         - unique
+  #        - not_null
+
+ # - name: customer_filtered
+  #  description: "A starter dbt model with a filter from customer."
+ #   columns:
+  #    - name: id
+   #     description: "The primary key for this table"
+    #    tests:
+     #     - unique
+      #    - not_null
